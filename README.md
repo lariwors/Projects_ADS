@@ -5,7 +5,7 @@
 Descrição geral:
 - Este programa simula um sistema de agendamento de consultas médicas especializadas.
 - O usuário pode fornecer dados pessoais, escolher uma especialidade médica, selecionar um profissional, data e horário.
-- O programa confirma todas as etapas do agendamento antes de finalizar.
+- programa confirma todas as etapas do agendamento antes de finalizar.
 
 Funcionalidades:
 1. Apresentação inicial e convite para agendamento.
