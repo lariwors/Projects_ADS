@@ -27,8 +27,7 @@ Variáveis:
 - tentarNovamente (int): controla o loop principal de repetição para reiniciar o processo se necessário.
 
 Estruturas utilizadas:
-- Condicionais:
- - if, else if e else para validar decisões do usuário.
+- Condicionais: if, else if e else para validar decisões do usuário.
  
 - Laços de repetição: 
   - do...while para validação de entrada e confirmação de dados.
