@@ -2,7 +2,7 @@
 
     // Armazenamento das variáveis utilizadas.
     int main(){
-        char nome[50], sobrenome[50], telefone[11];
+        char nome[50], sobrenome[50], telefone[12];
         int especialidade, medico, data, horario; 
         int consulta, confirmaDados, confirmaConsulta, tentarNovamente = 1; //Variáveis de controle para a lógica de repetição.
 
@@ -40,7 +40,7 @@
         scanf("%s", sobrenome);
 
         printf("Digite seu telefone com DDD (somente números e sem espaços):\n");
-        scanf("%12s", telefone);
+        scanf("%s", telefone);
 
     // Confirmação se os dados estão corretos.
     do {
